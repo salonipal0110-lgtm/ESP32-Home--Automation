@@ -8,8 +8,9 @@
 #define Relay4   17        
             
 
-#define WLAN_SSID       "Oppok12**x"             // Your SSID
-#define WLAN_PASS       "saloni@12443"        // Your password
+#define WLAN_SSID       "Oppok*****"             // Your SSID
+#define WLAN_PASS       "s**********
+"        // Your password
 
 /************************* Adafruit.io Setup *********************************/
 
